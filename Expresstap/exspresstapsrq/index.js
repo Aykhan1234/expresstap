@@ -1,7 +1,7 @@
 let employee = [
-    {id:'1', name:'Azer', age:20},
+    {id:'1', name:'Ayxan', age:20},
     {id:'2', name:'Orxan', age:19},
-    {id:'3', name:'Elcan', age:19}
+    {id:'3', name:'Cavid', age:19}
 ]
 
 const express = require('express')
